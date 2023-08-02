@@ -1,3 +1,2 @@
-import BasicButton from "./components/BasicButton.vue";
-import TailButton from "./components/TailButton.vue"
-export {BasicButton ,TailButton};
+import './style.css';
+export * from './components';
